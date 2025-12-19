@@ -1,0 +1,7 @@
+rendercv_output/
+.DS_Store
+*.pdf
+*.tex
+*.log
+*.aux
+*.out
